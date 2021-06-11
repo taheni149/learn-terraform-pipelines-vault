@@ -3,7 +3,7 @@ terraform {
     organization = "hashicorp-learn"
 
     workspaces {
-      name = "learn-terraform-pipelines-vault"
+      name = "judith-m-vault"
     }
   }
   required_providers {
